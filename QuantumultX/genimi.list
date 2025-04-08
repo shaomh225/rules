@@ -1,6 +1,6 @@
 # > Google AI
-host-suffix,autodraw.com,Google
-host-suffix,deepmind.com,Google
-host-suffix,tensorflow.org,Google
-host-suffix,tfhub.dev,Google
-host-suffix,gemini.google.com,Google
+host-suffix,autodraw.com,OpenAI
+host-suffix,deepmind.com,OpenAI
+host-suffix,tensorflow.org,OpenAI
+host-suffix,tfhub.dev,OpenAI
+host-suffix,gemini.google.com,OpenAI
